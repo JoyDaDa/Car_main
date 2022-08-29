@@ -1,0 +1,346 @@
+Added Component: Designator=ADC1(LQ_IDC5X2)
+Added Component: Designator=BAT1(LQ_XT30UPB-F)
+Added Component: Designator=C1(LQ_C6d3X7d7)
+Added Component: Designator=C2(LQ_C0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=C3(LQ_C6d3X7d7)
+Added Component: Designator=C4(LQ_C0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=C5(LQ_C6d3X7d7)
+Added Component: Designator=C6(LQ_C6d3X7d7)
+Added Component: Designator=D1(LQ_LED0603R)
+Added Component: Designator=D2(LQ_LED0603R)
+Added Component: Designator=D3(LQ_LED0603R)
+Added Component: Designator=D4(LQ_LED0603R)
+Added Component: Designator=Daj1(LQ_LED0603R)
+Added Component: Designator=EX1(LQ_IDC5X2)
+Added Component: Designator=JP1(KF301-5.0-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(KF301-5.0-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=K1(LQ_BT4SMT)
+Added Component: Designator=K2(LQ_BT4SMT)
+Added Component: Designator=K3(LQ_BT4SMT)
+Added Component: Designator=L1(LQ_L7X7)
+Added Component: Designator=L2(LQ_L7X7)
+Added Component: Designator=LQ-TC1(LQ-TC264-SYSVC-S)
+Added Component: Designator=PWR1(LQ_IDC4X2)
+Added Component: Designator=R1(LQ_R0603)
+Added Component: Designator=R2(LQ_R0603)
+Added Component: Designator=R3(LQ_R0603)
+Added Component: Designator=R4(LQ_R0603)
+Added Component: Designator=R5(LQ_R0603)
+Added Component: Designator=R6(LQ_R0603)
+Added Component: Designator=R7(LQ_R0603)
+Added Component: Designator=R8(LQ_R0603)
+Added Component: Designator=R9(LQ_R0603)
+Added Component: Designator=R10(LQ_R0603)
+Added Component: Designator=R11(LQ_R0603)
+Added Component: Designator=R12(LQ_R0603)
+Added Component: Designator=R13(LQ_R0603)
+Added Component: Designator=R14(LQ_R0603)
+Added Component: Designator=R15(LQ_R0603)
+Added Component: Designator=R16(LQ_R0603)
+Added Component: Designator=R17(LQ_R0603)
+Added Component: Designator=R18(LQ_R0603)
+Added Component: Designator=R19(LQ_R0603)
+Added Component: Designator=U1(LQ_TO-263-5)
+Added Component: Designator=U2(SOT223_M)
+Added Component: Designator=U3(SOP8)
+Added Component: Designator=VR1(lq_3266)
+Added Component: Designator=Z1(LQ_1206D)
+Added Component: Designator=Z2(LQ_1206D)
+Added Component: Designator=Z3(LQ_1206D)
+Added Component: Designator=九轴1(LQ_XH254-4P)
+Added Component: Designator=干簧管1(LQ_XH254-3P)
+Added Component: Designator=开关1(LQ_KCD1-101 117S)
+Added Component: Designator=拨码开关1(DIP4)
+Added Component: Designator=显示屏1(LQ-TFT-180V33)
+Added Component: Designator=电机1(LQ_XH254-5P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=编码器1(LQ_ENCODER)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=舵机1(LQ_XH254-4P)
+Added Pin To Net: NetName=3.3V Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=LQ-TC1-46
+Added Pin To Net: NetName=3.3V Pin=PWR1-1
+Added Pin To Net: NetName=3.3V Pin=PWR1-3
+Added Pin To Net: NetName=3.3V Pin=R9-1
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=3.3V Pin=R11-2
+Added Pin To Net: NetName=3.3V Pin=R12-2
+Added Pin To Net: NetName=3.3V Pin=R13-2
+Added Pin To Net: NetName=3.3V Pin=R16-1
+Added Pin To Net: NetName=3.3V Pin=R18-1
+Added Pin To Net: NetName=3.3V Pin=R19-1
+Added Pin To Net: NetName=3.3V Pin=U2-3
+Added Pin To Net: NetName=3.3V Pin=九轴1-1
+Added Pin To Net: NetName=3.3V Pin=干簧管1-1
+Added Pin To Net: NetName=3.3V Pin=显示屏1-2
+Added Pin To Net: NetName=3.3V Pin=电机1-5
+Added Pin To Net: NetName=3.3V Pin=编码器1-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=ADC1-2
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=PWR1-5
+Added Pin To Net: NetName=5V Pin=PWR1-7
+Added Pin To Net: NetName=5V Pin=R14-1
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=13.0 Pin=EX1-1
+Added Pin To Net: NetName=13.0 Pin=LQ-TC1-74
+Added Net: Name=13.0
+Added Pin To Net: NetName=AN1 Pin=ADC1-3
+Added Pin To Net: NetName=AN1 Pin=LQ-TC1-14
+Added Net: Name=AN1
+Added Pin To Net: NetName=AN2 Pin=ADC1-4
+Added Pin To Net: NetName=AN2 Pin=LQ-TC1-11
+Added Net: Name=AN2
+Added Pin To Net: NetName=AN3 Pin=ADC1-5
+Added Pin To Net: NetName=AN3 Pin=LQ-TC1-7
+Added Net: Name=AN3
+Added Pin To Net: NetName=AN4 Pin=ADC1-6
+Added Pin To Net: NetName=AN4 Pin=LQ-TC1-12
+Added Net: Name=AN4
+Added Pin To Net: NetName=AN5 Pin=ADC1-7
+Added Pin To Net: NetName=AN5 Pin=ADC1-8
+Added Pin To Net: NetName=AN5 Pin=LQ-TC1-9
+Added Net: Name=AN5
+Added Pin To Net: NetName=AN6 Pin=ADC1-9
+Added Pin To Net: NetName=AN6 Pin=LQ-TC1-5
+Added Net: Name=AN6
+Added Pin To Net: NetName=AN7 Pin=LQ-TC1-10
+Added Pin To Net: NetName=AN7 Pin=R4-1
+Added Net: Name=AN7
+Added Pin To Net: NetName=BAT12V Pin=C5-1
+Added Pin To Net: NetName=BAT12V Pin=JP1-2
+Added Pin To Net: NetName=BAT12V Pin=JP2-2
+Added Pin To Net: NetName=BAT12V Pin=R2-1
+Added Pin To Net: NetName=BAT12V Pin=R3-2
+Added Pin To Net: NetName=BAT12V Pin=R7-1
+Added Pin To Net: NetName=BAT12V Pin=U1-1
+Added Pin To Net: NetName=BAT12V Pin=U3-4
+Added Pin To Net: NetName=BAT12V Pin=开关1-2
+Added Net: Name=BAT12V
+Added Pin To Net: NetName=Dial SW0 Pin=LQ-TC1-20
+Added Pin To Net: NetName=Dial SW0 Pin=R17-1
+Added Pin To Net: NetName=Dial SW0 Pin=拨码开关1-1
+Added Net: Name=Dial SW0
+Added Pin To Net: NetName=Dial SW1 Pin=LQ-TC1-22
+Added Pin To Net: NetName=Dial SW1 Pin=R15-1
+Added Pin To Net: NetName=Dial SW1 Pin=拨码开关1-2
+Added Net: Name=Dial SW1
+Added Pin To Net: NetName=ENcoder1A Pin=LQ-TC1-19
+Added Pin To Net: NetName=ENcoder1A Pin=编码器1-3
+Added Net: Name=ENcoder1A
+Added Pin To Net: NetName=ENcoder1B Pin=LQ-TC1-17
+Added Pin To Net: NetName=ENcoder1B Pin=编码器1-4
+Added Net: Name=ENcoder1B
+Added Pin To Net: NetName=GND Pin=ADC1-1
+Added Pin To Net: NetName=GND Pin=ADC1-10
+Added Pin To Net: NetName=GND Pin=BAT1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=Daj1-2
+Added Pin To Net: NetName=GND Pin=EX1-10
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=LQ-TC1-40
+Added Pin To Net: NetName=GND Pin=LQ-TC1-43
+Added Pin To Net: NetName=GND Pin=PWR1-2
+Added Pin To Net: NetName=GND Pin=PWR1-4
+Added Pin To Net: NetName=GND Pin=PWR1-6
+Added Pin To Net: NetName=GND Pin=PWR1-8
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=Z1-1
+Added Pin To Net: NetName=GND Pin=Z2-1
+Added Pin To Net: NetName=GND Pin=Z3-1
+Added Pin To Net: NetName=GND Pin=九轴1-2
+Added Pin To Net: NetName=GND Pin=干簧管1-2
+Added Pin To Net: NetName=GND Pin=拨码开关1-3
+Added Pin To Net: NetName=GND Pin=拨码开关1-4
+Added Pin To Net: NetName=GND Pin=显示屏1-1
+Added Pin To Net: NetName=GND Pin=编码器1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=KEY0 Pin=K1-2
+Added Pin To Net: NetName=KEY0 Pin=K1-2
+Added Pin To Net: NetName=KEY0 Pin=LQ-TC1-28
+Added Pin To Net: NetName=KEY0 Pin=R11-1
+Added Net: Name=KEY0
+Added Pin To Net: NetName=KEY1 Pin=K2-2
+Added Pin To Net: NetName=KEY1 Pin=K2-2
+Added Pin To Net: NetName=KEY1 Pin=LQ-TC1-31
+Added Pin To Net: NetName=KEY1 Pin=R12-1
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=K3-2
+Added Pin To Net: NetName=KEY2 Pin=K3-2
+Added Pin To Net: NetName=KEY2 Pin=LQ-TC1-30
+Added Pin To Net: NetName=KEY2 Pin=R13-1
+Added Net: Name=KEY2
+Added Pin To Net: NetName=MB_LED0 Pin=D4-2
+Added Pin To Net: NetName=MB_LED0 Pin=LQ-TC1-52
+Added Net: Name=MB_LED0
+Added Pin To Net: NetName=MB_LED1 Pin=D3-2
+Added Pin To Net: NetName=MB_LED1 Pin=LQ-TC1-53
+Added Net: Name=MB_LED1
+Added Pin To Net: NetName=MT1_P Pin=LQ-TC1-29
+Added Pin To Net: NetName=MT1_P Pin=电机1-4
+Added Net: Name=MT1_P
+Added Pin To Net: NetName=MT1 N Pin=LQ-TC1-24
+Added Pin To Net: NetName=MT1 N Pin=电机1-3
+Added Net: Name=MT1 N
+Added Pin To Net: NetName=MT2_N Pin=LQ-TC1-32
+Added Pin To Net: NetName=MT2_N Pin=电机1-1
+Added Net: Name=MT2_N
+Added Pin To Net: NetName=MT2_P Pin=LQ-TC1-35
+Added Pin To Net: NetName=MT2_P Pin=电机1-2
+Added Net: Name=MT2_P
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=L2-2
+Added Pin To Net: NetName=NetC6_1 Pin=R1-2
+Added Pin To Net: NetName=NetC6_1 Pin=R5-2
+Added Pin To Net: NetName=NetC6_1 Pin=舵机1-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R14-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R16-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R18-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R19-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetDaj1_1 Pin=Daj1-1
+Added Pin To Net: NetName=NetDaj1_1 Pin=R1-1
+Added Net: Name=NetDaj1_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-2
+Added Pin To Net: NetName=NetL1_1 Pin=Z1-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U3-5
+Added Pin To Net: NetName=NetL2_1 Pin=U3-6
+Added Pin To Net: NetName=NetL2_1 Pin=Z2-2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-2
+Added Pin To Net: NetName=NetR2_2 Pin=R8-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U3-1
+Added Pin To Net: NetName=NetR5_1 Pin=VR1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=舵机1-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U3-3
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=P15.2 Pin=EX1-3
+Added Pin To Net: NetName=P15.2 Pin=LQ-TC1-67
+Added Net: Name=P15.2
+Added Pin To Net: NetName=P15.5 Pin=EX1-5
+Added Pin To Net: NetName=P15.5 Pin=LQ-TC1-61
+Added Net: Name=P15.5
+Added Pin To Net: NetName=P15.7 Pin=EX1-7
+Added Pin To Net: NetName=P15.7 Pin=LQ-TC1-69
+Added Net: Name=P15.7
+Added Pin To Net: NetName=P15.8 Pin=EX1-9
+Added Pin To Net: NetName=P15.8 Pin=LQ-TC1-68
+Added Net: Name=P15.8
+Added Pin To Net: NetName=Reed Pin=LQ-TC1-63
+Added Pin To Net: NetName=Reed Pin=干簧管1-3
+Added Net: Name=Reed
+Added Pin To Net: NetName=RX1 Pin=EX1-2
+Added Pin To Net: NetName=RX1 Pin=LQ-TC1-55
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX3 Pin=EX1-6
+Added Pin To Net: NetName=RX3 Pin=LQ-TC1-99
+Added Net: Name=RX3
+Added Pin To Net: NetName=SCL Pin=LQ-TC1-77
+Added Pin To Net: NetName=SCL Pin=R9-2
+Added Pin To Net: NetName=SCL Pin=九轴1-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=LQ-TC1-76
+Added Pin To Net: NetName=SDA Pin=R10-1
+Added Pin To Net: NetName=SDA Pin=九轴1-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=SErvo_P1 Pin=LQ-TC1-21
+Added Pin To Net: NetName=SErvo_P1 Pin=R6-1
+Added Pin To Net: NetName=SErvo_P1 Pin=Z3-2
+Added Net: Name=SErvo_P1
+Added Pin To Net: NetName=TFT_CS Pin=LQ-TC1-59
+Added Pin To Net: NetName=TFT_CS Pin=显示屏1-7
+Added Net: Name=TFT_CS
+Added Pin To Net: NetName=TFT_DC Pin=LQ-TC1-58
+Added Pin To Net: NetName=TFT_DC Pin=显示屏1-6
+Added Net: Name=TFT_DC
+Added Pin To Net: NetName=TFT_RST Pin=LQ-TC1-56
+Added Pin To Net: NetName=TFT_RST Pin=显示屏1-5
+Added Net: Name=TFT_RST
+Added Pin To Net: NetName=TFT_SCK Pin=LQ-TC1-57
+Added Pin To Net: NetName=TFT_SCK Pin=显示屏1-4
+Added Net: Name=TFT_SCK
+Added Pin To Net: NetName=TFT_SDI Pin=LQ-TC1-60
+Added Pin To Net: NetName=TFT_SDI Pin=显示屏1-3
+Added Net: Name=TFT_SDI
+Added Pin To Net: NetName=TX1 Pin=EX1-4
+Added Pin To Net: NetName=TX1 Pin=LQ-TC1-65
+Added Net: Name=TX1
+Added Pin To Net: NetName=TX3 Pin=EX1-8
+Added Pin To Net: NetName=TX3 Pin=LQ-TC1-104
+Added Net: Name=TX3
+Added Pin To Net: NetName=VCC12V Pin=BAT1-2
+Added Pin To Net: NetName=VCC12V Pin=开关1-1
+Added Net: Name=VCC12V
+Added Class: Name=My主板_V5
